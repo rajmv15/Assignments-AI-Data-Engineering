@@ -1,0 +1,6 @@
+import numpy as np
+
+x_ndarray = np.arange(-50,50.1,.1)
+y_ndarray = 12*x_ndarray + 1
+y_ndarray, x_ndarray
+
